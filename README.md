@@ -1,4 +1,3 @@
-# cotton_resequencing
 1. Phenotype_results.xls: Seven quantitative traits for early maturity, comprising flowering time (FT), the period from the first flower blooming to the first boll opening (FBP), Whole growth period (WGP), yield percentage before frost (YPBF), node of the first fruiting branch (NFFB), height of the node of the first fruiting branch (HNFFB) and plant height (PH) used for GWAS analysis. 
 2. pheatmap.fpkm: Expression pattern of flowering time-related genes at square, 5 dps, 10 dps, 15 dps and 20 dps.
 3. Sanger_Sequencing.tar.gz: anger sequencing for validate the accuracy of the SNP results.
