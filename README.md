@@ -18,9 +18,9 @@
 18. variation_annotation.sh:  A script ursd for variation annotation.
 19. variation_filter.sh: A script ursd for SNPs and Indels filtering.
 20. DPS_0_20.FPKM.xls: RNA-Seq analysis at five developmental stages as follows: (1) square; (2) 5 days post square (5 DPS); (3) 10 DPS; (4) 15 DPS; (5) 21 DPS between ‘CRI50’ and ‘TM-1’.
-22. gwas_analysis.sh: A script used for association analysis for early maturity traits.
-23. Manhattan_plot.py: A script used for plot Manhattan for GAWS results for early maturity traits.
-24. RNAseq_analysis.sh: A script used for calculating all gene expression leves by RNAseq.
-25. blup.R: A script used for calculating BLUP value for each early maturity-related traits.
-26. plot_LDheatmap.py: A script used for plot LDheatmap.
-27. PCA.sh: A script used for PCA analysis for all accessions.
+21. gwas_analysis.sh: A script used for association analysis for early maturity traits.
+22. Manhattan_plot.py: A script used for plot Manhattan for GAWS results for early maturity traits.
+23. RNAseq_analysis.sh: A script used for calculating all gene expression leves by RNAseq.
+24. blup.R: A script used for calculating BLUP value for each early maturity-related traits.
+25. plot_LDheatmap.py: A script used for plot LDheatmap.
+26. PCA.sh: A script used for PCA analysis for all accessions.
